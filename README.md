@@ -3,4 +3,4 @@ This Project is mainly based on Python. I have used different python packages su
 
 Test Output:
 
-![](images/marge_all.png)
+![](/Automated data analytics report for triange pharmacuiticals ltd/photos/merged_pic.png)
